@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweater', serif;
+  font-size: 200%;
+
+
+}
+
+h1 {
+  margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+  color: #010059;
+}
+
+h2 {
+  color: #52437b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #413c69;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 5px;
+  height: 0px;
+  width: 3%;
+  margin-top: 100px;
+}
+
+p {
+  line-height: 2;
+  color: #52437b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.75rem;
+  font-weight: normal;
+  padding-bottom: 7px;
+}
+
+a {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+.first-page-text {
+  font-size: 1.6rem;
+  margin-top: 100px;
+    margin-bottom: 155px
+}
+
+.top-container {
+  background-image: linear-gradient(270deg, #6c63ff, #f8a4d8);
+  ;
+  position: relative;
+  padding-top: 200px;
+}
+
+.topcloud-img {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  width: 150px;
+  height: 150px;
+}
+
+.middle-container {
+  margin:  0;
+  background-image: url("https://cache.marriott.com/marriottassets/destinations/hero/sydney-destination.jpg?interpolation=progressive-bilinear");
+
+      padding-top: 60px;
+
+        padding-bottom: 15px;
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.ubervideo {
+  width: 721px;
+  height: 354px;
+}
+
+.buttomcloud-img {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+  width: 150px;
+  height: 150px;
+}
+
+.mountain-img {
+  margin-top: 60px;
+  width: 400px;
+  height: 400px;
+}
+
+.astronaut-img {
+  width: 15%;
+}
+
+
+
+.protective-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.guitar-skill-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 60%;
+  margin: 40px auto 60px;
+}
+.skills{
+  background-image: linear-gradient(270deg, #f8a4d8, #6c63ff);
+  padding-top: 10px;
+}
+
+.bottom-container {
+  background-image: linear-gradient(270deg, #6c63ff, #f8a4d8);
+  padding: 50px 0 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.contact-me {
+  margin-top: 100px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0px;
+}
+.sydney-drone {
+  width: 1200px;
+  height: 650px;
+}
+.btn {
+  background: #6c63ff;
+  background-image: -webkit-linear-gradient(top, #6c63ff, #f8a4d8);
+  background-image: -moz-linear-gradient(top, #6c63ff, #f8a4d8);
+  background-image: -ms-linear-gradient(top, #6c63ff, #f8a4d8);
+  background-image: -o-lineAR-gradient(top, #6c63ff, #f8a4d8);
+  background-image: linear-gradient(to bottom, #6c63ff, #f8a4d8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.image-p {
+  color: #f1f1f6;
+  margin-bottom: 0px;
+}
